@@ -1,6 +1,12 @@
-jQuery Mobile School
+# jQuery Mobile School
 
-Slides : https://sites.google.com/site/jquerymobilevideos/home/slides
-Videos 
+## Slides 
+All slides can be found here http://bit.ly/JQM-Slides 
+
+## Videos
+
+``` 
   1 - Hello World        : https://www.youtube.com/watch?v=0d09OjXeWLQ
   2 - Adding UI Elements : 
+
+```
