@@ -6,12 +6,21 @@
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
 	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
 	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+
+  <!-- to avoid header text from being 
+       truncated overwrite the margin -->
+  <style type="text/css">
+    .ui-header .ui-title {
+     margin-right: 10%;
+     margin-left: 10%;
+   }
+  </style>
 </head> 
 <body> 
 
 <div data-role="page" id="mainPage">
 	<div data-role="header">
-		<h1>Movies near 94041</h1>
+		<h4>Movies near 94041</h4>
 	</div>
 	<div data-role="content">	
 	  <ul data-role="listview" data-inset="true" data-filter="true">
