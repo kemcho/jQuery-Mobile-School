@@ -3,7 +3,8 @@
 ## Slides 
 All slides can be found under slides folder or at http://bit.ly/JQM-School-Slides 
 
-## For Creating new videos I follow instructions in this file stepsToCreateNewVideos.txt in this repo.
+## Adding New videos
+I follow instructions in this file stepsToCreateNewVideos.txt which is in this repo.
 
 ## Videos
 
