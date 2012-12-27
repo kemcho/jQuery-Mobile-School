@@ -1,5 +1,5 @@
 1. Write a working code. 
-2. Create a slide < 10 mins.
+2. Create a slide < 10 mins by using the SampleSlide in the slides section.
 3. Use Quick Time to record the video.
 4. Upload to Youtube the recorded video.
 5. Update the video logo with the jQM logo in the img folder.

@@ -8,9 +8,19 @@ data-role="footer"
 Video 2
 
 data-role="list-view"
+data-rel="back"
 data-inset="true"
 data-filter="true"
 data-transition="slide"
-data-rel="back"
 data-direction="reverse"
 
+Video 3
+
+data-role="navbar"
+data-role="button"
+data-rel="dialog"
+data-position="fixed"
+data-icon="alert"
+data-iconpos="right"
+data-rel="external"
+data-ajax="false"
