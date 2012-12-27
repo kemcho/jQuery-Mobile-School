@@ -2,7 +2,7 @@
 2. Create a slide < 10 mins by using the SampleSlide in the slides section.
 3. Use Quick Time to record the video.
 4. Upload to Youtube the recorded video.
-5. Update the video logo with the jQM logo in the img folder.
+5. Update the video logo with the jQM logo in the img folder, http://www.flamingtext.com/logo/Design-Shrek or create one if it does not exists.
 6. Update the readme file with the link of the new video.
 7. Create a pdf version of the slide so that non MSFT community can see it.
 8. Check in new code, new slides into github.com
