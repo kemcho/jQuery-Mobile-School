@@ -19,3 +19,7 @@ I follow instructions in this file stepsToCreateNewVideos.txt which is in this r
   3 - Themes and Navigation
 
   http://www.youtube.com/watch?v=rwz1Dagc4Z8
+
+  4 - Dynamic User Interfaces : Dynamic pages and Dynamic lists
+
+  http://www.youtube.com/watch?v=9NOoTUM8tBo
