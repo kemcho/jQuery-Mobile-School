@@ -10,16 +10,20 @@ I follow instructions in this file stepsToCreateNewVideos.txt which is in this r
 
   1 - Hello World
 
-  http://www.youtube.com/watch?v=0d09OjXeWLQ
+  video : http://www.youtube.com/watch?v=0d09OjXeWLQ
+  code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/1-hello-world.html
 
   2 - Adding UI Elements
 
-  http://www.youtube.com/watch?v=HjIkCXKZTfk
+  video : http://www.youtube.com/watch?v=HjIkCXKZTfk
+  code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/2-Adding-UI-Elements.html
 
   3 - Themes and Navigation
 
-  http://www.youtube.com/watch?v=rwz1Dagc4Z8
+  video : http://www.youtube.com/watch?v=rwz1Dagc4Z8
+  code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/3-Themes-And-Navigation.html
 
   4 - Dynamic User Interfaces : Dynamic pages and Dynamic lists
 
-  http://www.youtube.com/watch?v=9NOoTUM8tBo
+  video : http://www.youtube.com/watch?v=9NOoTUM8tBo
+  code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/4-Dynamic-Page.html
