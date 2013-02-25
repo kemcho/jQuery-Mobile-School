@@ -1,5 +1,7 @@
 # jQuery Mobile School
 
+All code written and tested with jQuery Mobile 1.3.0 and jQuery 1.8.2
+
 ## Slides 
 All slides can be found under slides folder or at http://bit.ly/JQM-School-Slides 
 
