@@ -1,0 +1,22 @@
+[
+	{ "name" : "Dabangg2",
+	  "picUrl" : "http://www.naz8.com/images/Dabangg2.jpg",
+	  "trailerUrl" : "http://www.youtube.com/embed/7nPN1M9zVcI?rel=0"
+	},
+	{
+	  "name" : "Talassh",
+	  "picUrl" : "http://www.naz8.com/images/talassh.jpg",	
+	  "trailerUrl" : "https://www.youtube.com/embed/d07uw3Zn7_o"
+	},
+	{
+	  "name" : "JAB TAK HAI JAAN",
+      "picUrl" : "http://www.naz8.com/images/jthj.jpg",
+      "trailerUrl" : "https://www.youtube.com/embed/v0UXgoJ9Shg"
+
+	},
+	{
+	  "name" : "Khiladi 786",
+	  "picUrl" : "http://www.naz8.com/images/khiladi786.jpg",
+	  "trailerUrl" : "https://www.youtube.com/embed/kHdtpTrrxuo"
+	}
+]
