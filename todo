@@ -1,3 +1,8 @@
-form for selecting zip code
-json file auto generation per zip code
-show timings
+- destroy the iframe once the user navigates away.
+- check if you still need the dummyurl for dynamically created views
+- form for selecting zip code
+- json file auto generation per zip code
+- show timings
+- use the device widht and height in iframe
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/7nPN1M9zVcI?rel=0" frameborder="0" allowfullscreen seamless></iframe>
+
