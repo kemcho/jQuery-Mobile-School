@@ -16,15 +16,15 @@
       $.mobile.page.prototype.options.addBackBtn = true;
       $.mobile.defaultPageTransition = "slide";
     });
-  </script>
-  
-  <script type="text/javascript">
+
     $(document).bind('mobileinit', function(){
       $.mobile.defaultPageTransition = "slide";
     });
   </script>
+
   
   <script src="./lib/jqm/jquery.mobile-1.3.0.js"></script>
+
   <!-- to avoid header text from being 
        truncated overwrite the margin -->
   <style type="text/css">
@@ -40,11 +40,14 @@
 	<div data-role="header" data-theme="a">
 		<h4>Movies near 94041</h4>
 	</div>
-	<div data-role="content">	
-    <ul data-role="listview" data-inset="true" data-filter="true" id="MovieContainer">
-    <ul>
+	<div data-role="content" id="Movies">	    
 	</div>
 </div>
+
+
+<script type="text/x-mustache-template" id="MovieContainer-template">
+  <ul data-role="listview" data-inset="true" data-filter="true" id="MovieContainer"><ul>
+</script>
 
 <script type="text/x-mustache-template" id="MovieDetail-template">
   <li><a href="javascript:void(0)">{{name}}</a></li>
@@ -55,6 +58,6 @@
 <script src="./lib/backbone-0.9.10.js"></script>
 <script src="./lib/mustache.js"></script>
 <script src="./lib/Application.js"></script>
-<script type="text/javascript"> $(function(){ MoviesApp.boot($('#MovieContainer')); });</script>
+<script type="text/javascript"> $(function(){ MoviesApp.boot($('#Movies')); });</script>
 </body>
 </html>
