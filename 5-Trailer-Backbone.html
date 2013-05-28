@@ -6,8 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" /> 
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   
-	<link rel="stylesheet" href="./lib/jqm/jquery.mobile-1.3.0.css" />
-  <script src="./lib/jquery-1.8.2.js"></script>
+	<link rel="stylesheet" href="./js/lib/jqm/jquery.mobile-1.3.0.css" />
+  <script src="./js/lib/jquery-1.8.2.js"></script>
 
   <!-- Adding deafult button -->
   <!-- fade is the default transition style -->
@@ -19,7 +19,7 @@
   </script>
 
   
-  <script src="./lib/jqm/jquery.mobile-1.3.0.js"></script>
+  <script src="./js/lib/jqm/jquery.mobile-1.3.0.js"></script>
 
   <!-- to avoid header text from being 
        truncated overwrite the margin -->
@@ -33,16 +33,19 @@
 <body> 
 
 <div data-role="page" id="mainPage" data-theme="a">
+
 	<div data-role="header" data-theme="a">
 		<h4>Movies near 94041</h4>
 	</div>
+
 	<div data-role="content" id="Movies">	    
 	</div>
+
 </div>
 
 
 <script type="text/x-mustache-template" id="MovieContainer-template">
-  <ul data-role="listview" data-inset="true" data-filter="true" id="MovieContainer"><ul>
+  <ul data-role="listview" data-inset="true" data-filter="true" id="{{movieContainerId}}"><ul>
 </script>
 
 <script type="text/x-mustache-template" id="MovieDetail-template">
@@ -50,10 +53,12 @@
 </script>
 
 
-<script src="./lib/underscore-1.4.4.js"></script>
-<script src="./lib/backbone-0.9.10.js"></script>
-<script src="./lib/mustache.js"></script>
-<script src="./lib/Application.js"></script>
+<script src="./js/lib/underscore-1.4.4.js"></script>
+<script src="./js/lib/backbone-0.9.10.js"></script>
+<script src="./js/lib/mustache.js"></script>
+<script src="./js/app/Application.js"></script>
+<script src="./js/app/router/MovieListRouter.js"></script>
+<script src="./js/app/view/MovieView.js"></script>
 <script type="text/javascript"> $(function(){ MoviesApp.boot($('#Movies')); });</script>
 </body>
 </html>

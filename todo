@@ -1,3 +1,7 @@
+5/27
+- After the moving around of files make sure that the old code references still work ...
+
+old
 - back button not present when you create a page dynamically.
 - code formatting all tabs -> spaces.
 - destroy the iframe once the user navigates away.
