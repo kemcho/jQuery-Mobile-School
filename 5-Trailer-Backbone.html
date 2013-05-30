@@ -11,10 +11,14 @@
 
   <!-- Adding deafult button -->
   <!-- fade is the default transition style -->
+  <!-- Backbone.js and JQuery to work together, disable few things
+  http://jquerymobile.com/demos/1.3.0-beta.1/docs/pages/backbone-require.html -->
   <script type="text/javascript">
     $(document).bind('mobileinit', function(){
       $.mobile.page.prototype.options.addBackBtn = true;
       $.mobile.defaultPageTransition = "slide";
+      $.mobile.linkBindingEnabled = false;
+      $.mobile.hashListeningEnabled = false;
     });
   </script>
 
@@ -49,7 +53,7 @@
 </script>
 
 <script type="text/x-mustache-template" id="MovieDetail-template">
-  <li><a href="javascript:void(0)">{{name}}</a></li>
+  <li><a href="{{movieDetailUrl}}">{{name}}</a></li>
 </script>
 
 

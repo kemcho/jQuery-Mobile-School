@@ -1,3 +1,17 @@
+
+Remaining
+- Routing to different route.
+http://jquerymobile.com/demos/1.3.0-beta.1/docs/pages/backbone-require.html understand this.
+- Showing a movie detail page
+- Showing the trailer page
+- Killing the trailer iframe on navigation backward
+- Get movies from naz8.com and create json file dynamically.
+- Integrate jquery frontend with the dynamic backend that creates json.
+- Deploy the app to amazon s3
+- Upgrade jquery and jquery mobile to latest all files.
+- Get show timings
+- Review and summary
+
 5/27
 - After the moving around of files make sure that the old code references still work ...
 
