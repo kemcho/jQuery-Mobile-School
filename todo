@@ -1,21 +1,30 @@
 
 Remaining
-- Routing to different route.
-http://jquerymobile.com/demos/1.3.0-beta.1/docs/pages/backbone-require.html understand this.
-- Showing a movie detail page
-- Showing the trailer page
-- Killing the trailer iframe on navigation backward
+
+
+- Showing the trailer page with youtube video.
+- Url Encode the movie Name ?
+- Killing the trailer iframe on navigating away from the page.
 - Get movies from naz8.com and create json file dynamically.
 - Integrate jquery frontend with the dynamic backend that creates json.
 - Deploy the app to amazon s3
 - Upgrade jquery and jquery mobile to latest all files.
 - Get show timings
 - Review and summary
+- Add real user monitoring for your app.
+- Create dashboard in play for events that corrospond to who visited your site.
+- Security issue for passing in the movie name ?
+- Code formatting, convert all tabs to spaces etc.
 
 5/27
 - After the moving around of files make sure that the old code references still work ...
 
 old
+- Make sure you can navigate in the app.
+- Remove back button functionality
+- Routing to different route.
+- Showing a movie detail page
+http://jquerymobile.com/demos/1.3.0-beta.1/docs/pages/backbone-require.html understand this.
 - back button not present when you create a page dynamically.
 - code formatting all tabs -> spaces.
 - destroy the iframe once the user navigates away.
