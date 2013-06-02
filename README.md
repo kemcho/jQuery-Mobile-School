@@ -33,3 +33,11 @@ I follow instructions in this file stepsToCreateNewVideos.txt which is in this r
     video : http://www.youtube.com/watch?v=9NOoTUM8tBo
 
     code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/4-Dynamic-Page.html
+
+  5 - Simplying the code - Using backbone.js and mustache.js
+    
+    video : http://www.youtube.com/watch?v=kutu7YPBZFY
+   
+    code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/5-Trailer-Backbone.html
+
+

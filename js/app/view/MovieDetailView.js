@@ -6,9 +6,8 @@ MoviesApp.MovieDetailView = Backbone.View.extend({
   	this.movies = options.movies;
   	this.currentMovieName = options.movieName;
   	this.currentMovie = this.getCurrentMovieObject(this.movies,this.currentMovieName);
-  	console.log("current movie objec - "+JSON.stringify(this.currentMovie));
-
   },
+  
   render : function(){
 
   	//console.log("I am going to show you this movie - "+this.currentMovieName);
