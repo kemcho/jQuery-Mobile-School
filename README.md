@@ -40,4 +40,20 @@ I follow instructions in this file stepsToCreateNewVideos.txt which is in this r
    
     code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/5-Trailer-Backbone.html
 
+  6 - Simplying the code in Detail - Using backbone.js and mustache.js
+    
+    video : http://www.youtube.com/watch?v=SQYi5NTrzr0
+   
+    code : https://github.com/kemcho/jQuery-Mobile-School/blob/master/5-Trailer-Backbone.html
 
+  7 - Movie list generator
+    
+    video : http://www.youtube.com/watch?v=k3LSn9awZC0
+   
+    code : https://github.com/kemcho/bollywoodMovies
+
+  8 - Deploying your jQuery Mobile app on heroku.com
+    
+    video : http://www.youtube.com/watch?v=F5_Pq2vLcIw
+   
+    code : https://github.com/kemcho/bollywoodMovies
